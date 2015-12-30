@@ -13,7 +13,7 @@ setup(
             'Environment :: Console',
             'Programming Language :: Python',
             'Intended Audience :: Python enthousiasts',
-            'Topic :: IRC',
+            'Topic :: Function overload',
             'License :: Beerware',
             ]
         )
