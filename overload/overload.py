@@ -1,6 +1,9 @@
 """
 overload.py
 
+A simple function overload decorator that mostly works.
+It makes an heavy use of annotation and thus may not be as pythonic as it
+should.
 
 """
 
